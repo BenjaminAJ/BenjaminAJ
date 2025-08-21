@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Benjamin Ajanaku  <br><br>🔭 I’m currently working on MediBook, a healthcare app for patient registration and appointment scheduling, and **Rotinuol Ventures**, an e-commerce platform for medical equipment.  <br><br>🌱 I’m currently learning TypeScript to strengthen my backend and full-stack development skills.  <br><br>💬 Ask me about Node.js, Express, APIs, databases (MongoDB, PostgreSQL), and backend system design.  <br><br>⚡ Fun fact: I love turning complex problems into simple, scalable solutions, and I enjoy exploring how tech can solve real-world challenges.  <br>
+👋 Hi, I'm Benjamin Ajanaku  <br><br>🔭 I’m currently working on MediBook, a healthcare app for patient registration and appointment scheduling, and **Rotinuol Ventures**, an e-commerce platform for medical equipment.  <br><br>🌱 I’m currently learning **NestJS** (for scalable backend applications) and **Flutter** (for cross-platform mobile development).  <br><br>💬 Ask me about Node.js, Express, APIs, databases (MongoDB, PostgreSQL), and backend system design.  <br><br>⚡ Fun fact: I love turning complex problems into simple, scalable solutions, and I enjoy exploring how tech can solve real-world challenges.  <br>
 
 
 ## 🌐 Socials:
