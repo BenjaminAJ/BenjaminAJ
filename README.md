@@ -1,5 +1,18 @@
-# 💫 About Me:
-👋 Hi, I'm Benjamin Ajanaku  <br><br>🔭 I’m currently working on MediBook, a healthcare app for patient registration and appointment scheduling, and **Rotinuol Ventures**, an e-commerce platform for medical equipment.  <br><br>🌱 I’m currently learning **NestJS** (for scalable backend applications) and **Flutter** (for cross-platform mobile development).  <br><br>💬 Ask me about Node.js, Express, APIs, databases (MongoDB, PostgreSQL), and backend system design.  <br><br>⚡ Fun fact: I love turning complex problems into simple, scalable solutions, and I enjoy exploring how tech can solve real-world challenges.  <br>
+# 💫 About Me
+
+👋 Hi, I'm Benjamin Ajanaku, a Software Engineer and Data Analyst passionate about building practical, scalable, and user-focused solutions.
+
+💻 I specialise in full-stack development with the **MERN stack (MongoDB, Express.js, React, Node.js)** and **NestJS**, with additional experience in **JavaScript, TypeScript, Firebase, PHP, and Flutter**.
+
+🚀 I’m currently working on **Rotinuol Ventures**, a digital platform for medical equipment, while continuing to build and explore projects that solve real-world problems through technology.
+
+📊 I also have a growing interest in **data analytics**, using data to uncover insights, identify trends, and support better decision-making.
+
+🌱 I’m continuously learning and improving my skills in **backend architecture, scalable application development, data analytics, and modern software engineering practices**.
+
+💬 Ask me about **Node.js, NestJS, Express.js, React, APIs, databases, backend development, and data analytics**.
+
+⚡ I enjoy turning complex problems into simple, scalable solutions and exploring how technology can create meaningful impact.
 
 
 ## 🌐 Socials:
