@@ -1,12 +1,12 @@
 # 💫 About Me
 
-👋 Hi, I'm Benjamin Ajanaku, a Software Engineer and Data Analyst passionate about building practical, scalable, and user-focused solutions.
+👋 Hi, I'm Benjamin Ajanaku, a **Software Engineer and Data Analyst** passionate about building practical, scalable, and user-focused solutions.
 
 💻 I specialise in full-stack development with the **MERN stack (MongoDB, Express.js, React, Node.js)** and **NestJS**, with additional experience in **JavaScript, TypeScript, Firebase, PHP, and Flutter**.
 
-🚀 I’m currently working on **Rotinuol Ventures**, a digital platform for medical equipment, while continuing to build and explore projects that solve real-world problems through technology.
+🚀 **Currently working on:** Rotinuol Ventures, a medical equipment platform focused on product discovery and lead generation.
 
-📊 I also have a growing interest in **data analytics**, using data to uncover insights, identify trends, and support better decision-making.
+📊 I also have a growing interest in **data analytics**, using data to uncover insights, identify trends, and support informed decision-making.
 
 🌱 I’m continuously learning and improving my skills in **backend architecture, scalable application development, data analytics, and modern software engineering practices**.
 
